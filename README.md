@@ -24,7 +24,7 @@ Run the below command from within the container image for real-time object detec
 # Example
 As observed in the below example, the pretrained MobileNet-v2 does a good job of drawing a bounding box on the detected objects (the 91 object classes that it is trained on). Also included in the real-time annotation is model's confidence in the detected object.
 <p align="center">
-  <img src="https://github.com/artanzand/object_detection_tensorRT/blob/main/examples/Screenshot%20from%202022-03-25%2020-31-26.png" />
+  <img src="https://github.com/artanzand/object_detection_tensorRT/blob/main/examples/mouse_keyboard_person.png" />
 </p>
 
 # Credits
